@@ -16,11 +16,16 @@ Clone the repository
 
 Switch to the repo folder
 
-    cd laravel-realworld-example-app
+    cd laravel-vue-component-tech-test 
 
 Install all the dependencies using composer
 
     composer install
+    
+Install all the dependencies using npm
+
+    npm install
+    npm run dev
 
 Copy the example env file and make the required configuration changes in the .env file
 
